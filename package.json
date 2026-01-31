@@ -31,5 +31,8 @@
     "prettier-plugin-sort-imports": "^1.8.9",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.3.4"
   }
 }
